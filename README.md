@@ -23,7 +23,14 @@ class FalconSoft(self):
         self.web = 'https://marlonfalcon.com'
         self.twitter = '@MarlonFalcon4'
         self.linkedin = 'https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/'
+        self.source = {
+            'birth': ['Cuba','Habana','Ciego de Avila'],
+            'I have lived': ['Chile','Santiago de Chile'],
+            'Where I live': ['Spain','Valencia'],
+        }
         self.code = {
+            'erp': ['odoo', 'sap'],
+            'studies': ['civil engineer', 'master in architecture'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Flask', 'Django'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
