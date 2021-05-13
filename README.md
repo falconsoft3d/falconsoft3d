@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Marlon Falcón Hernández (Falconsoft)
 
 ```python
-class Chuda(self):
+class FalconSoft(self):
         self.username = 'falconsoft3d'
         self.name = 'Marlon Falcón Hernández'
         self.web = 'https://marlonfalcon.com'
@@ -38,7 +38,7 @@ class Chuda(self):
 
 
 if __name__ == '__main__':
-    me = falconsoft()
+    me = FalconSoft()
 
 
 ```
@@ -47,8 +47,8 @@ if __name__ == '__main__':
 
 - Twitter:       https://twitter.com/MarlonFalcon4
 - Linkedin:      https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/
-<!-- Personal Site: https://marlonfalcon.com -->
-<!-- Work Site: https://marlonfalcon.cl -->
-<!-- Work Site: https://yenxt.es -->
-<!-- Work Site: http://yenxt.cl -->
-<!-- Work Site: http://falconsolutions.cl -->
+- Personal Site: https://marlonfalcon.com
+- Work Site: https://marlonfalcon.cl
+- Work Site: https://yenxt.es
+- Work Site: http://yenxt.cl
+- Work Site: http://falconsolutions.cl
