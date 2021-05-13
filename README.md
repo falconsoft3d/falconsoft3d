@@ -62,4 +62,4 @@ if __name__ == '__main__':
 - Blog Site: https://yenxt.es
 - Work Site: http://yenxt.cl
 - Work Site: http://falconsolutions.cl
-- Other Site: http://123sap.net
+- Blog Site: http://123sap.net
