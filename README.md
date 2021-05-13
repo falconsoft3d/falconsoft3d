@@ -28,6 +28,10 @@ class FalconSoft(self):
             'I have lived': ['Chile','Santiago de Chile'],
             'Where I live': ['Spain','Valencia'],
         }
+        self.studies = {
+            'graduate': ['civil engineer','Camaguey'],
+            'postgraduate': ['master in architecture','Havana']
+        }
         self.code = {
             'erp': ['odoo', 'sap'],
             'studies': ['civil engineer', 'master in architecture'],
