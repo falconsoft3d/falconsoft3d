@@ -59,6 +59,7 @@ if __name__ == '__main__':
 - Linkedin:      https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/
 - Personal Site: https://marlonfalcon.com
 - Work Site: https://marlonfalcon.cl
-- Work Site: https://yenxt.es
+- Blog Site: https://yenxt.es
 - Work Site: http://yenxt.cl
 - Work Site: http://falconsolutions.cl
+- Other Site: http://123sap.net
