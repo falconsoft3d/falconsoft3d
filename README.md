@@ -33,13 +33,13 @@ class FalconSoft(self):
             'postgraduate': ['master in architecture','Havana']
         }
         self.code = {
-            'erp': ['odoo', 'sap'],
+            'erp': ['odoo erp', 'sap r3'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Node.Js','React'],
             'backend': ['Python', 'PHP', 'Flask', 'Django'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas'],
-            'misc': ['Firebase', 'SAP', 'SCRUM', 'GNU/Linux']
+            'misc': ['Firebase', 'SCRUM', 'GNU/Linux']
         }
         self.architecture = ['MVC', 'microservices']
 
