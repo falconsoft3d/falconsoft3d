@@ -34,7 +34,6 @@ class FalconSoft(self):
         }
         self.code = {
             'erp': ['odoo', 'sap'],
-            'studies': ['civil engineer', 'master in architecture'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Flask', 'Django'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
