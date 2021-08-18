@@ -34,8 +34,8 @@ class FalconSoft(self):
         }
         self.code = {
             'erp': ['odoo erp', 'sap r3'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Node.Js','React'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','React'],
+            'backend': ['Python', 'PHP', 'Flask', 'Django','Node.Js'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas'],
