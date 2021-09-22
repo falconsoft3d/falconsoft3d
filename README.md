@@ -34,12 +34,13 @@ class FalconSoft(self):
         }
         self.code = {
             'erp': ['odoo erp', 'sap r3'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','React'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','React','Redux'],
             'backend': ['Python', 'PHP', 'Flask', 'Django','Node.Js'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas'],
-            'misc': ['Firebase', 'SCRUM', 'GNU/Linux']
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'],
+            'devops': ['Docker', 'Nginx', 'AWS', 'Heroku','Docker-compose'],
+            'tools': ['GIT', 'GitHub', 'Bitbucket'],
+            'ides': ['Visual Studio Code', 'PyCharm'],
+            'misc': ['Firebase', 'SCRUM', 'GNU/Linux', 'IOS']
         }
         self.architecture = ['MVC', 'microservices']
 
