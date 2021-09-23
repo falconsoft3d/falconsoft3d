@@ -27,11 +27,11 @@ class FalconSoft(self):
             'born': ['Cuba','Habana','Ciego de Avila'],
             'I have lived': ['Chile','Santiago de Chile'],
             'Where I live': ['Spain','Valencia'],
-        }
+        },
         self.studies = {
             'graduate': ['civil engineer','Camaguey'],
             'postgraduate': ['master in architecture','Havana']
-        }
+        },
         self.code = {
             'erp': ['odoo erp', 'sap r3'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','React','Redux'],
@@ -41,6 +41,10 @@ class FalconSoft(self):
             'tools': ['GIT', 'GitHub', 'Bitbucket'],
             'ides': ['Visual Studio Code', 'PyCharm'],
             'misc': ['Firebase', 'SCRUM', 'GNU/Linux', 'IOS']
+        },
+        self.project = {
+            'partcombinator': https://github.com/partcombinator,
+            'pyerp': https://github.com/falconsoft3d/pyerp
         }
         self.architecture = ['MVC', 'microservices']
 
