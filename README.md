@@ -42,13 +42,14 @@ class FalconSoft(self):
             'ides': ['Visual Studio Code', 'PyCharm'],
             'misc': ['Firebase', 'SCRUM', 'GNU/Linux', 'IOS']
         },
+        self.architecture = ['MVC', 'microservices'],
         self.projects = {
             'partcombinator': [ https://github.com/partcombinator ][MERN],
             'pyerp': [ https://github.com/falconsoft3d/pyerp ][DJANGO],
             'reactlang': [ https://github.com/falconsoft3d/reactlang ][PWA],
             'knox-token-library-api': [ https://github.com/falconsoft3d/knox-token-library-api ][API, DOCKER, NODE, EXPRESS]
         }
-        self.architecture = ['MVC', 'microservices']
+        
 
     def __str__(self):
         return self.name
@@ -63,7 +64,8 @@ if __name__ == '__main__':
   ## Get in touch
 
 - Twitter:       https://twitter.com/MarlonFalcon4
-- Linkedin:      https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/
+- Linkedin:      https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4
+- Youtube:       https://www.youtube.com/channel/UCM93kgnjXu393jgKjjSkUjQ
 
   ## Website
 - Personal Site: https://marlonfalcon.com
