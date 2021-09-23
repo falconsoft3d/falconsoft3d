@@ -42,7 +42,7 @@ class FalconSoft(self):
             'ides': ['Visual Studio Code', 'PyCharm'],
             'misc': ['Firebase', 'SCRUM', 'GNU/Linux', 'IOS']
         },
-        self.project = {
+        self.projects = {
             'partcombinator': [ https://github.com/partcombinator ][MERN],
             'pyerp': [ https://github.com/falconsoft3d/pyerp ][DJANGO],
             'reactlang': [ https://github.com/falconsoft3d/reactlang ][PWA],
