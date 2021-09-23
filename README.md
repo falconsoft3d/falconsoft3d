@@ -43,8 +43,10 @@ class FalconSoft(self):
             'misc': ['Firebase', 'SCRUM', 'GNU/Linux', 'IOS']
         },
         self.project = {
-            'partcombinator': https://github.com/partcombinator,
-            'pyerp': https://github.com/falconsoft3d/pyerp
+            'partcombinator': [ https://github.com/partcombinator ][MERN],
+            'pyerp': [ https://github.com/falconsoft3d/pyerp ][DJANGO],
+            'reactlang': [ https://github.com/falconsoft3d/reactlang ][PWA],
+            'knox-token-library-api': [ https://github.com/falconsoft3d/knox-token-library-api ][API, DOCKER, NODE, EXPRESS]
         }
         self.architecture = ['MVC', 'microservices']
 
