@@ -32,6 +32,7 @@ class FalconSoft(self):
             'graduate': ['civil engineer','Camaguey'],
             'postgraduate': ['master in architecture','Havana']
         },
+        self.architecture = ['MVC', 'microservices'],
         self.code = {
             'erp': ['odoo erp', 'sap r3'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','React','Redux'],
@@ -42,7 +43,6 @@ class FalconSoft(self):
             'ides': ['Visual Studio Code', 'PyCharm'],
             'misc': ['Firebase', 'SCRUM', 'GNU/Linux', 'IOS']
         },
-        self.architecture = ['MVC', 'microservices'],
         self.projects = {
             'partcombinator': [ https://github.com/partcombinator ][MERN],
             'pyerp': [ https://github.com/falconsoft3d/pyerp ][DJANGO],
