@@ -21,7 +21,7 @@ class FalconSoft(self):
         self.username = 'falconsoft3d'
         self.name = 'Marlon Falcón Hernández'
         self.web = 'https://marlonfalcon.com'
-        self.resume = 'https://docs.google.com/document/d/1Ot0IwUVDvnvBdBKgAkWx3Ryr-i0twdah3TxqFH52OPs'
+        self.resume = 'https://github.com/falconsoft3d/documents/blob/main/resume_marlon_falcon.pdf'
         self.twitter = '@MarlonFalcon4'
         self.linkedin = 'https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/'
         self.source = {
