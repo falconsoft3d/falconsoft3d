@@ -23,6 +23,7 @@ class FalconSoft(self):
         self.web = 'https://marlonfalcon.com'
         self.resume = 'https://github.com/falconsoft3d/documents/blob/main/resume_marlon_falcon.pdf'
         self.twitter = '@MarlonFalcon4'
+        self.youtube = 'https://www.youtube.com/@marlonfalconhdez/videos'
         self.linkedin = 'https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/'
         self.source = {
             'born': ['Cuba','Habana','Ciego de Avila'],
@@ -61,13 +62,6 @@ if __name__ == '__main__':
 
 
 ```
-
-  ## Get in touch
-
-- Twitter:       https://twitter.com/MarlonFalcon4
-- Linkedin:      https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4
-- Youtube:       https://www.youtube.com/channel/UCM93kgnjXu393jgKjjSkUjQ
-
   ## Website
 - Personal Site: https://marlonfalcon.com
 - Work Site: https://marlonfalcon.cl
