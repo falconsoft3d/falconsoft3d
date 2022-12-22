@@ -69,6 +69,7 @@ if __name__ == '__main__':
 - Work Site: http://yenxt.cl
 - Work Site: http://falconsolutions.cl
 - APP Site: https://bim20.com
+- Blog Site: https://odooconstruccion.com
 - APP Site: https://sis20.com
 
   ## Email
