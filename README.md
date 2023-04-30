@@ -25,6 +25,7 @@ class FalconSoft(self):
         self.twitter = '@MarlonFalcon4'
         self.youtube = 'https://www.youtube.com/@marlonfalconhdez/videos'
         self.linkedin = 'https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/'
+        seld.dev = 'https://dev.to/'
         self.source = {
             'born': ['Cuba','Habana','Ciego de Avila'],
             'I have lived': ['Chile','Santiago de Chile'],
